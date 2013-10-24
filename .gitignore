@@ -15,4 +15,4 @@
 /tmp
 
 #Ignore config
-config/*.yml
+/config/usergrid.yml
